@@ -12,6 +12,8 @@
 
 * Refer to `RAFT Model Finetune and Inference.ipynb` for finetuning and inference
 
+All of the code samples are tested on Google Colab.
+
 **References**:
 1. https://github.com/ShishirPatil/gorilla/tree/main/raft
 2. https://github.com/run-llama/llama_index/blob/main/llama-index-packs/llama-index-packs-raft-dataset/examples/raft_dataset.ipynb

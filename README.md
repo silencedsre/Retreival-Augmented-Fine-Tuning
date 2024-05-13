@@ -2,7 +2,7 @@
 
 **RAFT** is the new way to teach LLMs to be better at RAG
 
-**"Retrieval-Augmented Fine-Tuning"** combiles the advantages of Retrieval-Augmented Generation and Fine-Tuning to improve domain adaptation.
+**"Retrieval-Augmented Fine-Tuning"** combines the advantages of Retrieval-Augmented Generation and Fine-Tuning to improve domain adaptation.
 
 
 **Paper link**: https://arxiv.org/pdf/2403.10131
